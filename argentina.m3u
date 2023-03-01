@@ -226,28 +226,25 @@ https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/CHILE/24-7/
 http://181.78.4.186:8000/play/a0ex/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://181.52.172.2:9000/play/a00w/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://181.52.172.2:9000/play/a01h/index.m3u8
+http://45.167.250.114:9000/play/a0fr
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://181.78.4.186:8000/play/a0el/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://181.52.172.2:9000/play/a00v/index.m3u8
+http://45.167.250.114:9000/play/a0gc
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 3   
 http://181.78.4.186:8000/play/a0hn/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 3   
-http://181.52.172.2:9000/play/a025/index.m3u8
+http://45.167.250.114:9000/play/a0ed
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 4 
 http://181.78.4.186:8000/play/a0fu/index.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 4 
+http://45.167.250.114:9000/play/a0i2
 
 
 
@@ -2049,6 +2046,7 @@ http://tvstarlife.com:25461/live/geovany/geovany/10673.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="INFANTIL", Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -2674,21 +2672,52 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="PERU", TV PERU NOTICIAS
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wtr57WC/tvperu-digital.jpg" group-title="PERU", ATV PERU
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="PERU", ATV+ 
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="PERU" , Panamericana Perú
-http://cdnhd.iblups.com/hls/ptv2.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png" group-title="PERU", TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png" group-title="PERU", Canal IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Willax_Televisi%C3%B3n_2020.png/245px-Willax_Televisi%C3%B3n_2020.png" group-title="PERU", Willax Televisión
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=617440547&_cdn_timestamp=1677829169&_cdn_token=8ce7a6685b62e91735afe0414d1a3f0b3a1284b3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU", Latina Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=617440419&_cdn_timestamp=1677829099&_cdn_token=f1c13b3a9a97ee0e207b948a44e8a4f4b08b4d7d
+
+#EXTINF:-1 tvg-logo="https://ntv.pe/wp-content/uploads/2022/05/LOGO-NATIVA-RETINA-300x99.png" group-title="PERU", Nativa Televisión
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="PERU", América Televisión
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=617440619&_cdn_timestamp=1677829183&_cdn_token=7592c917f2d7922ee6595bae27db3f63a65daf43
+
+#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="PERU", Panamericana Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/PANAMERICANATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPANAMERICANATV_stream_7t&_cdn_session=617440659&_cdn_timestamp=1677829203&_cdn_token=3b315cf6c993565bd368cb58af7f37912d8eec4e
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="PERU", Exitosa Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=617440699&_cdn_timestamp=1677829221&_cdn_token=ac769aad2c81e031d5a4c08a1a16fee438e92563
+
+#EXTINF:-1 tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU", Conectad2 Televisión
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_session=617440787&_cdn_timestamp=1677829250&_cdn_token=034503a4380cc6cb76fcad5a1a33b47a5d4ed986
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU", ATV Sur
+https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="PERU", PBO TV
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=617440835&_cdn_timestamp=1677829266&_cdn_token=07531eacd6f2a5184dd7221db70b355aac918e2c
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRrS2R_HFcGI0RVqhw9IN02y3s05eq4oq10yZ5UQ=s88-c-k-c0x00ffffff-no-rj" group-title="PERU", Onda Digital Noticias
+https://v4.tustreaming.cl/ondadigitaltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ondadigitaltv.com/wp-content/uploads/2020/07/LOGO-ODTV-2.png?resize=300%2C269&ssl=1" group-title="PERU", Onda Digital 2
+https://v4.tustreaming.cl/odtv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="PERU", USMP TV
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/USMPTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUSMPTV_stream_61&_cdn_session=617440915&_cdn_timestamp=1677829298&_cdn_token=5ce86c61b2c0aeb64bc95d6e156d360130bc49f9
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="PERU", Global Televisión
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=617440907&_cdn_timestamp=1677829290&_cdn_token=0a1421bdb81c6d35d89ac31e86ad407463dc9b25
+
 
 
 
@@ -3305,6 +3334,9 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg" group-title="COSTA RICA",Canal 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/150px-Repretel_11_logo.png" group-title="COSTA RICA", Canal 11
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc" group-title="COSTA RICA",Canal 14 San Carlos
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 
@@ -3325,6 +3357,9 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="COSTA RICA", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/200px-Logo_de_FUTV.svg.png" group-title="COSTA RICA", FUTV
+http://181.189.243.254:8000/play/a0t3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/5ecf42519354156b3900d181808176ef.png" group-title="COSTA RICA", Limon TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
@@ -3347,6 +3382,10 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-12/stv-sarapiquitv-costa-rica.png.webp?itok=GS7udggT" group-title="COSTA RICA", STV El Canal Familiar
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", Teletica
+https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png" group-title="COSTA RICA", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
 
@@ -3361,6 +3400,9 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/b89953d1d7327bb67304a18eb0bc354a.png" group-title="COSTA RICA", TicaVision
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="COSTA RICA", Tigo Sports
+https://rbmvgesstbwuxbrzesoiobajnnssnagmlyhlmxvgkoiwbuypva.xyz:3715/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/83fb31ad5340bda41b8e6f5930e1d4fc.png" group-title="COSTA RICA", TV Curre
 http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
@@ -4429,6 +4471,9 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/abc447b0667e0012a060e9a79f10fcb2.png" group-title="ANIME - TEEN", KANADE TV
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+
+
+
 
 
 
