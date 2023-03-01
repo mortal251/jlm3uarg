@@ -866,10 +866,6 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="https://nuevomundotv.com.ar/images/logonm.svg" group-title="SANTA FE", NUEVO MUNDO CARCARAÑA
 https://tecnica.nuevomundotv.com.ar:446/hls/canal10_480p1128kbs/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://maximaceres.com/wp-content/uploads/2022/03/cropped-logomaximafm.png" group-title="SANTA FE", MAXIMA FM 95.5 FM CERES
-https://stmvideo2.livecastv.com/farias22/farias22/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="ENTRE RIOS", 6 ENTRE RIOS TV
 https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 
