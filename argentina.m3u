@@ -842,6 +842,9 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="SANTA FE", LITUS TV SANTA FE
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://maximaceres.com/wp-content/uploads/2022/03/cropped-logomaximafm.png" group-title="SANTA FE", MAXIMA CERES FM 95.5
+https://stmvideo2.livecastv.com/farias22/farias22/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="SANTA FE", AIRE DE SANTA FE
 https://ny1.stweb.tv/airedigital/live/playlist.m3u8
 
