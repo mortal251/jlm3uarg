@@ -145,7 +145,8 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCYvINPByAdCcpA0sWrF3I_w
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR  25.4
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8  
 
 
 
@@ -391,8 +392,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w501244001_b1296000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR  25.4
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8  
+
  
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", RT  25.5
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -445,8 +445,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="NOTICIAS INTERNACIONAL", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/EGbgl1gHSxzJPjRyxuKg2pypyDsV8fTJQ-BR6wJw41XRoCeEVOjAnmth_E7Z2neruFpTGC-t=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CARACOL NOTICIAS
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Tsgm-_R7j2H1dcDZ-ZWK_54e9NW3Mm41n2uZqGpID9ZyTdg4kOpFOX36yJvZM4XMi1nf0ox3wg=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", T13 CHILE
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
