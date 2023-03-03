@@ -160,14 +160,7 @@ https://www.youtube.com/watch?v=sEooidi0EAQ
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/EGbgl1gHSxzJPjRyxuKg2pypyDsV8fTJQ-BR6wJw41XRoCeEVOjAnmth_E7Z2neruFpTGC-t=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CARACOL NOTICIAS
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Tsgm-_R7j2H1dcDZ-ZWK_54e9NW3Mm41n2uZqGpID9ZyTdg4kOpFOX36yJvZM4XMi1nf0ox3wg=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", T13 CHILE
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UC2WTLqAREsl-yCW9k8NAjIvs1Iti2rrjWwVhmXely7PWjgXF2bfPgY-3-2Rf_CDmD608FE3eg=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", ADN 40 MX
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC7k--FhnJzhPTrbtldMSoQQ.m3u8
 
 
 
@@ -451,6 +444,15 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="NOTICIAS INTERNACIONAL", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/EGbgl1gHSxzJPjRyxuKg2pypyDsV8fTJQ-BR6wJw41XRoCeEVOjAnmth_E7Z2neruFpTGC-t=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", CARACOL NOTICIAS
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Tsgm-_R7j2H1dcDZ-ZWK_54e9NW3Mm41n2uZqGpID9ZyTdg4kOpFOX36yJvZM4XMi1nf0ox3wg=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", T13 CHILE
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/UC2WTLqAREsl-yCW9k8NAjIvs1Iti2rrjWwVhmXely7PWjgXF2bfPgY-3-2Rf_CDmD608FE3eg=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", ADN 40 MX
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC7k--FhnJzhPTrbtldMSoQQ.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="NACIONALES", AUNAR  22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
