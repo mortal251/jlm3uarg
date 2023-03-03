@@ -226,28 +226,37 @@ https://siloh-latam-aka.plutotv.net/lilo/production/CopaLibertadores/CHILE/24-7/
 http://181.78.4.186:8000/play/a0ex/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
-http://45.167.250.114:9000/play/a0fr
+http://45.190.13.50:8002/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="EVENTOS DEPORTIVOS", ESPN
+http://45.190.13.50:8002/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
 http://181.78.4.186:8000/play/a0el/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="EVENTOS DEPORTIVOS", ESPN 2
-http://45.167.250.114:9000/play/a0gc
+http://45.190.13.50:8002/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 3   
 http://181.78.4.186:8000/play/a0hn/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 3   
-http://45.167.250.114:9000/play/a0ed
+http://45.190.13.50:8002/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 3   
+http://45.190.13.50:8002/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 4 
 http://181.78.4.186:8000/play/a0fu/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN 4 
-http://45.167.250.114:9000/play/a0i2
+http://45.190.13.50:8002/play/a01i/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", ESPN Extra 
+http://45.190.13.50:8002/play/a01e/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 
+http://45.190.13.50:8002/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
 http://181.78.4.186:8000/play/a0fg/index.m3u8
