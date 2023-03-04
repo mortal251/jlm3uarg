@@ -1883,8 +1883,7 @@ https://stmv1.zcasthn.com.br/juanantunez/juanantunez/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1366_Solive_TV.png" group-title="CINE", SOLIVE TV
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/a49ae885facb1146cad8aadff09c4ca7.png?itok=i7HpnZYQ" group-title="CINE", Planeta tv Movie
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg" group-title="CINE", CHIQUILINES
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/4226980d-98bb-4fe2-af57-94dcd2167174/4.m3u8
