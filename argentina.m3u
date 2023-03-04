@@ -2070,6 +2070,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f6
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTIL", EL CHAVO
 https://epg.pw/stream/6bbd658005736c141fcbb7121ae3580ba4bf0f82cbacbf12ba95e5c298473abd.ctv
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="INFANTIL", EL CHAVO
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1262595444368199687/xluAUH_A_400x400.jpg" group-title="INFANTIL", MAGIC KIDS
