@@ -3762,6 +3762,13 @@ https://streamingwowza.com:19360/universal/universal.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/enlace.png" group-title="RELIGION", ENLACE
 https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="NOTICIAS INTERNACIONAL" , TeleFórmula
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=
+
+
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC3500003YK_20221109T010945.png" group-title="EVENTOS DEPORTIVOS", MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
