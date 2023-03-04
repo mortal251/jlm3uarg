@@ -61,6 +61,9 @@ https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148595238664986624/d9mKFlAQ_400x400.jpg" group-title="REGIONALES", Arica TV
 https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1383_ATV_Valdivia.png" group-title="REGIONALES", ATV Valdivia  
+https://6362ca6f1fc28.streamlock.net/8028/8028/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ab3b4f72e0708cab3f568772f2f6bcac.png" group-title="RADIO", Autonoma Radio  
 https://stream.wifispeed.cl:3033/hybrid/play.m3u8
 
@@ -279,6 +282,9 @@ http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c1462d513ed7e5b049d338693366ff29.png" group-title="RADIO", Macarena FM   
 https://5ff3d9babae13.streamlock.net:443/8042/8042/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1384_Metanoia_TV.png" group-title="REGIONALES", Metanoia TV  
+https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/7070d20a86a32c32e668f538bac42bdf.png" group-title="RADIO", MC Radio
 https://live.tvcontrolcp.com:1936/manten/manten/playlist.m3u8
