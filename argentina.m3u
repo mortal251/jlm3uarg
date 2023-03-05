@@ -3404,6 +3404,18 @@ https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-12/stv-sarapiquitv-costa-rica.png.webp?itok=GS7udggT" group-title="COSTA RICA", STV El Canal Familiar
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png" group-title="COSTA RICA",TD + HD
+http://181.78.105.146:8000/play/a00p
+
+#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0o9.png" group-title="COSTA RICA",TD + HD Opc 2
+http://181.189.243.254:8000/play/a0o9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png" group-title="COSTA RICA",TD + 2 HD
+http://181.78.105.146:8000/play/a00q
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/1024px-TD_M%C3 %A1s_2_Logo.svg.png" group-title="COSTA RICA",TD + 2 HD Opc 2
+http://181.189.243.254:8000/play/a0oa/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teletica.png/120px-Teletica.png" group-title="COSTA RICA", Teletica
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
 
