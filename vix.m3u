@@ -166,15 +166,6 @@ https://linear-355.frequency.stream/355/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Zona TUDN USA
 https://linear-357.frequency.stream/dist/vix/357/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX", TUDN 1
-https://linear-360.frequency.stream/dist/vix/360/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX", TUDN 2
-https://linear-361.frequency.stream/dist/vix/361/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX", TUDN 3
-https://linear-362.frequency.stream/dist/vix/362/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",VEVO Latino
 https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
 
@@ -274,13 +265,13 @@ https://linear-453.frequency.stream/453/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62792bcf1aa44a0794223434/fa524bcd863336dd90769bed87cb8baf?tr=q-80&w=750" group-title="ViX",La Parodia
 https://linear-468.frequency.stream/468/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX",TUDN 4
+#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX",TUDN 
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX",TUDN 5
+#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX",TUDN 2
 https://linear-441.frequency.stream/dist/vix/441/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX",TUDN 6
+#EXTINF:-1 tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt37afb73ea6a565b3/62463aaf0c8230128a03e18d/descarga.jpg" group-title="ViX",TUDN 3
 https://linear-442.frequency.stream/dist/vix/442/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", FUTBOL ESPAÑA 
