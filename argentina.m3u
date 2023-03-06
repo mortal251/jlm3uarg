@@ -94,6 +94,8 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCrpMfcQNog595v5gAS-oUsQ
 
 
 
+
+
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD  24.4 
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
@@ -1317,6 +1319,9 @@ https://streamconex.com:1936/puan/puan/chunklist_w1243153313.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/615586776267288576/hZWD4Yev.jpg" group-title="MENDOZA", RADIO MURIALDO AM 1290 MENDOZA
 https://cs1.onecast.com.br/7466/7466/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/6wsk0ARl6brmwfcp2Ihs-E_nGTtjC8PkkfttX9H6gJJh3cwDs9twMmRHHue_-2wIpgo9noA7=s48-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", El Cordillerano Radio Bariloche
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCsZrNaWKx7tD271KumOp2KQ.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fmamadeus.com.ar/images/logo-amadeus.png" group-title="MENDOZA", FM AMADEUS 91.9 FM RIVADAVIA
 https://vivo.solumedia.com:19360/fmamadeus/fmamadeus.m3u8
