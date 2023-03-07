@@ -348,6 +348,9 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe 32.2
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWHIbwMhnFMCuzqAgYLr5jYv87JH7fDN65VxdIP=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", LUZU TV
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCTHaNTsP7hsVgBxARZTuajw.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="AMBA", GEN TV  17.4
 https://inliveserver.com:1936/14056/14056/chunklist_w900525224.m3u8
 
