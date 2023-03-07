@@ -1365,6 +1365,10 @@ https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/chunklist_w1414594741_b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="AMBA", LA 100
 https://g4.mc-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xPhZzrTStYO8qh8UjHdEiGRdLP37euABGkC1MRyKUQbO2UGn9nmiawQ4wcMbat-PAzEPfWaT_Q=s176-c-k-c0x00ffffff-no-rj" group-title="AMBA", Radio Con Vos 89.9
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCxDteokWBemJvLI_I0VUGdA.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1392874118857564170/1pAEWGj0_400x400.jpg" group-title="AMBA", RADIO ENSAMBLE
 https://streamcasthd.com:1936/ensamblecontenidostv/ensamblecontenidostv/playlist.m3u8
 
