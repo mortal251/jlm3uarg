@@ -1684,7 +1684,7 @@ https://inliveserver.com:1936/8436/8436/chunklist_w502788946.m3u8
 https://stmvideo3.livecastv.com/radioestacion/radioestacion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://zerofm.com.ar/wp-content/uploads/2020/05/radiozero-200.png" group-title="RIO NEGRO", RADIO ZERO 94.5 FM CATRIEL
-https://srv4.zcast.com.br/zerofm/zerofm/playlist.m3u8
+https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radioestacionazul.com/wp-content/uploads/2019/12/cropped-AZUL.png?fit=273%2C72&ssl=1" group-title="MISIONES", RADIO ESTACION AZUL 106.9 MISIONES
 https://inliveserver.com:1936/17010/17010/playlist.m3u8
