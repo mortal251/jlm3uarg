@@ -1006,8 +1006,16 @@ https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiodelibera.com.ar/wp-content/uploads/2022/06/radio-del-ibera.png" group-title="CORRIENTES", CANAL 2 MERCEDES
 https://vd01.streaminghd.net.ar:3169/stream/play.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", AZM TV 
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCf0t3JPPILv3Pt4GiWwU3Ew.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", AZM TV 
 https://live.canalnueve.tv/canal.m3u8  
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group4/M02/47/4A/ghoGAFz1Kn6AdKE-AAAZqnoTA64070.png?x-oss-process=style/mq200" group-title="MISIONES", CANAL 12 MISIONES
