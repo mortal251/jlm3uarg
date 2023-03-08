@@ -1467,6 +1467,10 @@ http://streamyes.alsolnet.com/radionovatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQC3ZztNwYVI7-3K0qGaDY-w0toenpCDjGhg&usqp=CAU" group-title="TUCUMAN", FM METROPOLITANA 93.5 TUCUMAN
 https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/40rptCTXnlrSVBB4PjRlmeBgs7OhSkZDawUZLF2p9a-HHQoldPbx1-UxsDDuS556qXK46L79Pg=s176-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", Radio LT7 AM 900
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOEfC01xcEN2e_Dju2MP88Q.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="CORRIENTES", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
