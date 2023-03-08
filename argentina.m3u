@@ -3712,11 +3712,15 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Four_Seasons_logo.svg/1200px-Four_Seasons_logo.svg.png" group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCCkRwmztPEvut3gpsgmCmzw.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="WEB CAM Y CLIMA", USHUAIA CAMARA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/320px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png" group-title="WEB CAM Y CLIMA", USHUAIA CAMARA
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC6NTD1HmdaZMbe9K5qADOvw.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="WEB CAM Y CLIMA", CANAL DE BEAGLE USHUAIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/320px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png" group-title="WEB CAM Y CLIMA", CANAL DE BEAGLE USHUAIA
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCuR9Gx3rZA_eaJV9tF8l8HQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/AbRVUGET0M0RpqfA2BUfGfD98JtgsEpwsiJYPdpcvUh-m1rSt2Kex4ANbd06Bus6B-FjeUXf=s176-c-k-c0x00ffffff-no-rj" group-title="WEB CAM Y CLIMA", Ciudad de Merlo
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCtLuJqtQpGGxa-SOzWPEmig.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542106110177460224/tzvT4PcK_400x400.jpg" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Av norte)
