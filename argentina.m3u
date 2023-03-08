@@ -3712,6 +3712,12 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Four_Seasons_logo.svg/1200px-Four_Seasons_logo.svg.png" group-title="WEB CAM Y CLIMA", FOUR SEASONS BUENOS AIRES
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCCkRwmztPEvut3gpsgmCmzw.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="WEB CAM Y CLIMA", USHUAIA CAMARA
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC6NTD1HmdaZMbe9K5qADOvw.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="WEB CAM Y CLIMA", CANAL DE BEAGLE USHUAIA
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCuR9Gx3rZA_eaJV9tF8l8HQ.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542106110177460224/tzvT4PcK_400x400.jpg" group-title="WEB CAM Y CLIMA", CIUDAD DE NEUQUEN (Av norte)
 https://nqnmunicam.ddns.net/camnqn/avnorte_720p/playlist.m3u8
