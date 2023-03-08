@@ -1596,7 +1596,8 @@ http://200.50.248.57/Camara1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg/v1/fit/w_2500,h_1330,al_c/178b98_a06ec6fbe9464d7ea9163783c967c826.jpg" group-title="AMBA", FM OK 105.7 FLORENCIO VARELA
 https://panel.dattalive.com/8124/8124/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUxGZnBDOMrf_nKdtlq-Bk23Iw5AxQDv8K0BmjC=s176-c-k-c0x00ffffff-no-rj" group-title="RIO NEGRO", RADIO PATAGONIA
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC5pJrGqBvjIrPZWkNtUgL5Q.m3u8
 
 #EXTINF:-1 tvg-logo="http://partedelaireradio.com.ar/wp-content/uploads/2018/11/logo2.fw_.png" group-title="RIO NEGRO", PARTE DEL AIRE 94.9 FM SAN ANTONIO OESTE RIO NEGRO
 https://streamcasthd.com:19360/partedelaireradio/partedelaireradio.m3u8
