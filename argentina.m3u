@@ -96,6 +96,7 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCrpMfcQNog595v5gAS-oUsQ
 
 
 
+
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD  24.4 
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
@@ -912,6 +913,10 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="JUJUY", CANAL 13 JUJUY
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aWrAmNEE3tbAkTfPV0Whw-OKKYtG11mtNrRToZQlQ952p0uWOsfFgPo0gn377qGq0GNKDg1fWQ=s176-c-k-c0x00ffffff-no-rj" group-title="JUJUY", AM 630 JUJUY
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCMikS5--DczSjozuGIyUI1Q.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="SAN JUAN", CANAL 4 SAN JUAN
