@@ -1505,6 +1505,10 @@ https://vivo.solumedia.com:19360/urban/urban.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1134626952529240064/8eNRKNI7_400x400.png" group-title="PCIA BS AS", HITS MUSICA 93.5 FM BALCARCE
 https://videohd.live:19360/8110/8110.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUpZ4U3PrHwfvekbRXCTK7Kzt-Ljs-m3Z4AQ02e=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Stylo Dolores 92.7
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UChvHz8XEgQjHbuQfCb1Uatw.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_banners/206224046/1604788600/600x200" group-title="SANTA FE", WOX ROSARIO 88.3 FM
 https://streamcasthd.com:1936/woxtv/woxtv/playlist.m3u8
 
