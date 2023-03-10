@@ -4525,9 +4525,6 @@ https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/3caab16270214727377ff0994bb64031.png" group-title="MUSICA", Bajo Cero TV
 https://stmv2.zcasthn.com.br/bajocerotv/bajocerotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png" group-title="MUSICA", Cadena Elite 
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/fbefcbca47462eb80eedbeaf95126474.png" group-title="MUSICA", Canal VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
@@ -4542,6 +4539,9 @@ https://5eaccbab48461.streamlock.net:1936/qksvxezfzu/qksvxezfzu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png" group-title="MUSICA", Fabulosa FM
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/5b41a29753554f540c3554105e576c44.png" group-title="MUSICA", Karavana TV 
+http://video.karavanatv.com:8081/live/karavanaweb/playlist.m3u8
 
 
 
