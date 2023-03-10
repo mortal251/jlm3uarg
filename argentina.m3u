@@ -4537,6 +4537,12 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png" group-title="MUSICA", DJ Loncho Tv
 https://srv5.zcast.com.br/djlonchtv/djlonchtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.paste.pics/de96cfec4ae44fd7553282123ec898cb.png" group-title="MUSICA", eplusplay.cl 
+https://5eaccbab48461.streamlock.net:1936/qksvxezfzu/qksvxezfzu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png" group-title="MUSICA", Fabulosa FM
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
+
 
 
 
