@@ -2418,20 +2418,14 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCkccyEbqhhM3uKOI6Shm-4Q
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/msZfirXu17cpZoIrWX-Q5tJjBmwdJSbtilrQe7bCNFmpvkG9CKY7hqOj8PuU2cEJ-jds7Z2aFA=s176-c-k-c0x00ffffff-no-rj" group-title="CHILE", CHV Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE", UCV 
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="CHILE", UCV 2   
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWlnvQLsUSWJ58Yq38W7lSVPdAje3cq7Tb9SbbOkQ=s176-c-k-c0x00ffffff-no-rj" group-title="CHILE", Canal 13   
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCd4D3LfXC_9MY2zSv_3gMgw.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1521363358301233152/YcrFjQiB_400x400.jpg" group-title="CHILE", T13
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
@@ -2441,6 +2435,9 @@ https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png/150px-Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE", Telecanal
 https://unlimited2-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" group-title="CHILE", EL PINGUINO TV CHILE
+https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8
 
 
 
