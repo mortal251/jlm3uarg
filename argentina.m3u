@@ -2426,28 +2426,14 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png" group-title="CHILE", UCV 2   
 https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dB9xBTM/trececl.png" group-title="CHILE", TRECE CHILE
-https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1521363358301233152/YcrFjQiB_400x400.jpg" group-title="CHILE", T13
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1504067331789627400/RcQhCPZ3_400x400.jpg" group-title="CHILE", 13 Entretencion
-https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1504067331789627400/RcQhCPZ3_400x400.jpg" group-title="CHILE", 13 Prime
-https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1504067331789627400/RcQhCPZ3_400x400.jpg" group-title="CHILE", 13 Teleseries
-https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1504067331789627400/RcQhCPZ3_400x400.jpg" group-title="CHILE", 13 Cultura   
-https://unlimited2-cl-isp.dps.live/13cultura/13cultura.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410414449299800064/ZT1Pypbm_400x400.jpg" group-title="CHILE", ADN TV 
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png/150px-Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE", Telecanal
+https://unlimited2-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 
 
 
