@@ -63,6 +63,7 @@ https://g3.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/g
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png", CANAL DE LA CIUDAD
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
+
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/telemax.png" group-title="NACIONALES", TELEMAX  26.3
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w186437136_b864000_sleng.m3u8
 
@@ -1803,11 +1804,6 @@ https://vivo.solumedia.com:19360/lrm379/lrm379.m3u8
 #EXTINF:-1 tvg-logo="https://puntouno.com.ar/wp-content/uploads/2022/05/puntouno-logo.png" group-title="PCIA BS AS", RADIO PUNTO UNO 96.1 FM SAN BERNARDO
 https://sigma.radioplayer.com.ar:19360/puntouno961_abr/puntouno961_abr.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpgEAsGdpDE/XUtjFb_0mpI/AAAAAAAAHDo/2tDNzjjnej8AEwBjlNPoPIPBOP6hs20hACLcBGAs/s1600/fm-activa-93-1.png" group-title="SANTA FE", ACTIVA TV SANTA FE
-https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://fmdelsur103.com.ar/wp-content/uploads/2021/02/cropped-WhatsApp-Image-2020-08-20-at-5.07.30-PM.jpeg" group-title="PCIA BS AS", FM DEL SUR 103.7 VERONICA
 https://inliveserver.com:1936/8562/8562/playlist.m3u8
 
@@ -1820,9 +1816,6 @@ https://streamcasthd.com:1936/radiofmuniversaltv/radiofmuniversaltv/playlist.m3u
 
 #EXTINF:-1 tvg-logo="https://www.comunabuenpasto.gob.ar/sites/default/files/logonegro.png" group-title="CHUBUT", BUEN PASTO COMUNA RURAL
 https://panel.dattalive.com/8106/8106/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJmxn6Ipn4_-ifD0GGBHADc9GVRX5VXyisFeb4bVMqIJsb9Jka0cWoz0C7P3M4jRqk94&usqp=CAU" group-title="SANTA FE", TELEVIDEO OCAMPO SANTA FE
-https://inliveserver.com:1936/8050_1/8050_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/a3ab912fa9960e91a32d82029b6f445e.png" group-title="AMBA", DEMOS RADIO VISUAL VICENTE LOPEZ
 https://panel.dattalive.com/8066/8066/playlist.m3u8
@@ -2409,8 +2402,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d400078006
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Kry6_WnfdJJD6Hrsp0HxRpoSq4oj4h39oRW2klUNb7-DX3Q8YKJ2EWmYf0vxX6OHMKfQ4iZJZw=s176-c-k-c0x00ffffff-no-rj" group-title="CHILE", 24 Horas - TVN Chile  
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg" group-title="CHILE", La Red   
@@ -2418,6 +2411,9 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1233735970694029318/UulSTC05_400x400.jpg" group-title="CHILE", Mega
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DivHQWmzs3uHKZQfk6BiMnVMHsIU72dWLh0X5rEh4caNkYkfEV-T3nJGDx7mplosBW498zLuLi4=s176-c-k-c0x00ffffff-no-rj" group-title="CHILE", Meganoticias
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283856690648096770/L-vGlyO4_400x400.png" group-title="CHILE", UCV 
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
