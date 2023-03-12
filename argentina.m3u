@@ -914,6 +914,9 @@ https://streamcasthd.com:1936/radiorafaelatv1/radiorafaelatv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-vkXZdKTUiY8/X_IMq18-gxI/AAAAAAAA82k/4X2wus-6Pu0jJHKYjD2w66TpPqVoRk_IwCK8BGAsYHg/s0/2021-01-03.png" group-title="SANTA FE", Link TV 
 https://panel.dattalive.com:443/8128_1/8128_1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.12informa.com.ar/wp-content/uploads/2020/07/logocanal12.png" group-title="SANTA FE", CANAL 12 VENADO TUERTO
+https://nd106.republicaservers.com/hls/diegologonitv/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1259_FM_Cowboy.png" group-title="SANTA FE", FM COWBOYS ONLINE CALCHAQUI SANTA FE
 https://stmvideo1.livecastv.com/mundomusical/mundomusical/playlist.m3u8
 
