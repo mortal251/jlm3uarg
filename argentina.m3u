@@ -1856,7 +1856,8 @@ https://ca2.inka.net.pe/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="EVENTOS DEPORTIVOS", Contacto Deportivo 
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png" group-title="CINE", Maxima TV 
+https://cdnhd.iblups.com/hls/0usgJ8D2PB.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden
