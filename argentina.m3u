@@ -18,6 +18,9 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="FUTBOL ARG", CIUDAD MAGICA TV  
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.paste.pics/0e7402074c5a0c79729347bccca02e75.png" group-title="FUTBOL ARG", CMT
+https://stream-linkyprojects.linky.com.co/hls/cmt.m3u8
+
 
 
 
@@ -875,6 +878,14 @@ https://panel.dattalive.com/8134/8134/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/517503800169345024/7vwhaz5H_400x400.jpeg" group-title="PCIA BS AS", CANAL 5 AZUL
 https://nd106.republicaservers.com:4433/hls/delpueblomedios/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/a00409ba7612f506fcb77ef876e21d05.png" group-title="PCIA BS AS", Canal 4 Balcarce 
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/8ff2aa6ecce01f17952af1cdc9858919.png" group-title="PCIA BS AS", TeleJunin
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TelpinTV.ar" tvg-logo="https://lh3.googleusercontent.com/-ulhiusmLK5w/XjtA5Bi-zrI/AAAAAAAAvoI/A7OP1Flx4xM4g5VOMH9ZfUz7HrxtW3OMQCK8BGAsYHg/s0/2020-02-05.png" group-title="PCIA BS AS", CANAL 2 TELPIN PINAMAR
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
