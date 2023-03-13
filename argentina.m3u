@@ -67,6 +67,7 @@ https://g3.vxral-hor.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/g
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOV_Vx1baZJY9Tfvgm-UI3w.m3u8
 
 
+
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/telemax.png" group-title="NACIONALES", TELEMAX  26.3
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w186437136_b864000_sleng.m3u8
 
@@ -1464,6 +1465,9 @@ https://panel.dattalive.com/canal907/canal907/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CLR1nlZWEAAnjMx.jpg" group-title="CORDOBA", RADIO DEL OESTE 91.5 FM - CURA BROCHERO
 https://stmv1.srvstm.com/pedro/pedro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUpZ4U3PrHwfvekbRXCTK7Kzt-Ljs-m3Z4AQ02e=s176-c-k-c0x00ffffff-no-rj group-title="CORDOBA", RADIO STYLO 92.7 VILLA DOLORES
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UChvHz8XEgQjHbuQfCb1Uatw.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1401560207784882177/zzMBAl94_400x400.jpg" group-title="ENTRE RIOS", NEONETMUSIC DIAMANTE ENTRE RIOS
 https://panel.dattalive.com/8174/8174/playlist.m3u8
