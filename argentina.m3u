@@ -1849,6 +1849,9 @@ https://panel.dattalive.com/8066/8066/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/599795003389562880/Qt4WtUW1_400x400.jpg" group-title="PCIA BS AS", LU 24 TRES ARROYOS
 https://videostream.shockmedia.com.ar:19360/lu24am/lu24am.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="AMBA", CANAL 3 ARGENTINA
+https://stmv1.cnarlatam.com/canal3argentina/canal3argentina/playlist.m3u8
+
 
 
 
