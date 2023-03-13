@@ -68,6 +68,7 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCOV_Vx1baZJY9Tfvgm-UI3w
 
 
 
+
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/telemax.png" group-title="NACIONALES", TELEMAX  26.3
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w186437136_b864000_sleng.m3u8
 
@@ -1549,6 +1550,9 @@ https://videohd.live:19360/8110/8110.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUpZ4U3PrHwfvekbRXCTK7Kzt-Ljs-m3Z4AQ02e=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Stylo Dolores 92.7
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UChvHz8XEgQjHbuQfCb1Uatw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWUEFjzQfTzx_KP6w09OhYreDz7_jM45T1S-QrSBw=s176-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", Radio Pulxo 95.1 Cordoba
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCwEs6zaXoRw-FZksxnWkZgQ.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_banners/206224046/1604788600/600x200" group-title="SANTA FE", WOX ROSARIO 88.3 FM
