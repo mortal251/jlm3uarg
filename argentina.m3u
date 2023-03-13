@@ -1257,8 +1257,7 @@ https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://noticiaseps.com.ar/wp-content/uploads/2018/06/cropped-noticiastitulo-3.png" group-title="PCIA BS AS", NOTICIAS EPS BRAGADO
 https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="PCIA BS AS", TELEJUNIN
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="PCIA BS AS", CELTV CANAL 2 TORNQUIST
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
@@ -1569,8 +1568,7 @@ https://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979373619263524864/JmC3rvJB.jpg" group-title="CORDOBA", 95.5 FM OK ARROYITO CORDOBA
 https://stmvideo1.livecastv.com/griffa/griffa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/599795003389562880/Qt4WtUW1_400x400.jpg" group-title="PCIA BS AS", LU 24 TRES ARROYOS
-https://videostream.shockmedia.com.ar:19360/lu24am/lu24am.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="AMBA", RBD RADIO
 https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
@@ -1841,6 +1839,9 @@ https://panel.dattalive.com/8106/8106/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/a3ab912fa9960e91a32d82029b6f445e.png" group-title="AMBA", DEMOS RADIO VISUAL VICENTE LOPEZ
 https://panel.dattalive.com/8066/8066/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/599795003389562880/Qt4WtUW1_400x400.jpg" group-title="PCIA BS AS", LU 24 TRES ARROYOS
+https://videostream.shockmedia.com.ar:19360/lu24am/lu24am.m3u8
 
 
 
